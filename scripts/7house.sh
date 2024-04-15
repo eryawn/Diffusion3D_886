@@ -1,0 +1,1 @@
+bash scripts/run_image_procedure.sh 7 30 40 beach_house_1 "A DSLR 3D photo of a very beautiful small house on a beach ( highly detailed intricate 8K unreal engine 5 trending on Artstation )"
